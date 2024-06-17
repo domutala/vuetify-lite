@@ -84,8 +84,8 @@
 @import "../components/VTable/VTable.css";
 @import "../components/VTabs/VTab.css";
 @import "../components/VTabs/VTabs.css";
-@import "../components/VTextarea/VTextarea.css";
 @import "../components/VTextField/VTextField.css";
+@import "../components/VTextarea/VTextarea.css";
 @import "../components/VThemeProvider/VThemeProvider.css";
 @import "../components/VTimeline/VTimeline.css";
 @import "../components/VToolbar/VToolbar.css";
